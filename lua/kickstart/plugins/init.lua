@@ -1,0 +1,18 @@
+return {
+  require 'kickstart.plugins.sleuth',
+  require 'kickstart.plugins.comment',
+  require 'kickstart.plugins.which_key',
+  require 'kickstart.plugins.telescope',
+  require 'kickstart.plugins.lsp',
+  require 'kickstart.plugins.conform',
+  require 'kickstart.plugins.cmp',
+  require 'kickstart.plugins.tokyo_night',
+  require 'kickstart.plugins.todo-comments',
+  require 'kickstart.plugins.mini',
+  require 'kickstart.plugins.treesitter',
+  require 'kickstart.plugins.debug',
+  require 'kickstart.plugins.lint',
+  require 'kickstart.plugins.autopairs',
+  require 'kickstart.plugins.neo-tree',
+  require 'kickstart.plugins.gitsigns',
+}
